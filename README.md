@@ -1,2 +1,16 @@
-# InventorySystem
-A console-based Inventory Management System in Core Java. Allows adding products, updating quantity, searching products, and displaying stock reports. Built only with arrays and Core Java concepts, without file handling or collection framework.
+# 📦 Inventory Management System (Core Java)
+
+A simple **console-based Inventory Management System** built using **Core Java**.  
+This project demonstrates how to manage a small inventory using **arrays** to store products and their quantities, without file handling or collection classes.
+
+## 🚀 Features
+- Add new product with ID, name, and quantity  
+- Update stock quantity  
+- Search for a product by ID  
+- Display all products in stock  
+- Exit safely  
+
+## 💻 Technologies Used
+- Java (Core Java)  
+- Arrays  
+- Switch-Case, Loops, and Conditionals  
